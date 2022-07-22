@@ -1,0 +1,52 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 13 Jul 2022, 11:41:22 AM
+    Author     : Danette
+*/
+/*  Color pallet
+   Dark Purple : #513252
+   Plum : #7A4069
+   Pink : #CA4E79
+   Sand : #FFC18E
+*/
+
+
+body{
+    padding:0;
+    margin:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color:#513252;
+}
+
+.container{
+    width: 800px;
+    max-width: 80%;
+    background-color: #FFC18E;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px;
+    text-align: center;
+}
+
+img{
+    padding:5px;
+    max-width: 100%;
+    height: auto;
+    display:inline;
+}
+#exp{
+    padding:5px;
+}
+h1{
+    color : #774360;
+}
+h2{
+    color : #B25068;
+}
